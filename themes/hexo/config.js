@@ -5,7 +5,9 @@ const CONFIG = {
     'Hi，我是一个程序员',
     'Hi，我是一个打工人',
     'Hi，我是一个干饭人',
-    '欢迎来到我的博客🎉'
+    '欢迎来到我的博客🎉',
+    '凡是过往，皆为序章。',
+    '你想要的都会有，或早或晚!'
   ], // 首页大图标语文字
 
   HEXO_HOME_NAV_BUTTONS: true, // 首页是否显示分类大图标按钮
@@ -35,7 +37,7 @@ const CONFIG = {
   HEXO_ARTICLE_RECOMMEND: true, // 文章关联推荐
 
   HEXO_WIDGET_LATEST_POSTS: true, // 显示最新文章卡
-  HEXO_WIDGET_ANALYTICS: false, // 显示统计卡
+  HEXO_WIDGET_ANALYTICS: true, // 显示统计卡
   HEXO_WIDGET_TO_TOP: true,
   HEXO_WIDGET_TO_COMMENT: true, // 跳到评论区
   HEXO_WIDGET_DARK_MODE: true, // 夜间模式
